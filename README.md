@@ -1,7 +1,7 @@
 # chatapp
 Real-time Chat Application using React, NodeJs, socket.io, express
 
-#Prerequisites :
+# Prerequisites :
 Latest version of Nodejs installed, if not  get the latest version [here]https://nodejs.org/en/download/
 
 # Follow the below steps to depoly the project on your local machine
