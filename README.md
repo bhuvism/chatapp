@@ -32,3 +32,6 @@ These steps enables you to run the project on your localhost.
 8. Then, change the directory to 'server' and run ' npm install '.
 9. Go to the 'client' directory and start the react-app with the command 'npm start'.
 10. Now,change the directory to 'server' and start the express server by running the command 'npm start'.
+
+# Note:
+    Replace ENDPOINT path with your instance IP address (like: ENDPOINT = "http://<yourIP>:5000" in the file "client/src/components/Chat/Chat.js"  
