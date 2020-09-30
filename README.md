@@ -15,7 +15,7 @@ Latest version of Nodejs installed, if not  get the latest version [here]https:/
 These steps enables you to run the project on your localhost.
 
 
-# Steps included to deploy the project to a cloud (ex: AWS)
+# Steps included to deploy the project in a cloud (ex: AWS)
 
 1. Connect to your  instance as ec2-user using SSH.
 2. Install node version manager (nvm) by typing the following at the command line:
